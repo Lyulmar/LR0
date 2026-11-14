@@ -8,7 +8,7 @@
 
 
 
-!\[Демонстрация](https://github.com/Lyulmar/LR0/gif/demo.gif)
+!\[Демонстрация](<gif/demo.gif>)
 
 
 
